@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Postgram/static/css/main.559d29f6.css",
+    "main.js": "/Postgram/static/js/main.1538267e.js",
+    "static/js/453.80efc53e.chunk.js": "/Postgram/static/js/453.80efc53e.chunk.js",
+    "index.html": "/Postgram/index.html",
+    "main.559d29f6.css.map": "/Postgram/static/css/main.559d29f6.css.map",
+    "main.1538267e.js.map": "/Postgram/static/js/main.1538267e.js.map",
+    "453.80efc53e.chunk.js.map": "/Postgram/static/js/453.80efc53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559d29f6.css",
+    "static/js/main.1538267e.js"
+  ]
+}
